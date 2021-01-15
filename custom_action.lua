@@ -14,6 +14,7 @@ event = {name = "Issue", message = "Issue created"}
 -- в данном примере инициализируется для работоспособности кода
 secretToken = 'cX6uXF9kVDd_.H/B-very-secret'
 
+-----------------------
 -- Пользовательский код
 
 function sendReport(name, message, token)
